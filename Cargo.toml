@@ -1,4 +1,8 @@
 [package]
 name = "cuda-swarm-tiler"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
+description = "Swarm tiling — uses cuda-equipment"
+
+[dependencies]
+# cuda-equipment = { path = "../cuda-equipment" }
